@@ -1,4 +1,5 @@
-=== Bitlove Widget ===
+= Bitlove Widget =
+
 Contributors: Nico Jensen, Trollfunk
 Tags: widget, widgets, bitlove,
 Stable tag: 1.0
@@ -8,9 +9,6 @@ A Bitlove Widget
 == Description ==
 
 This twitter widget add a Bitlove Buutton to your page with a link to your Profile Page or your Feed Page.
-
-
-TODO: Better description and usage.
 
 == Installation ==
 
@@ -28,7 +26,7 @@ No FAQ yet.
 
 == Changelog ==
 
-= Version 1.0 =
+=== Version 1.0 ===
 
 * Initial public release
 
